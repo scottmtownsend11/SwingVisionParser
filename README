@@ -1,0 +1,7 @@
+List of Available Scripts
+
+parse_shots.py - From a SwingVision Shots CSV File, Calculates the average speed (and count) for each spin type for each stroke type for each player
+
+
+
+Future scripts and statistical analysis may be added but I promise nothing
